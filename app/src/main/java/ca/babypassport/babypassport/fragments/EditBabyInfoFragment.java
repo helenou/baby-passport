@@ -30,7 +30,7 @@ import ca.babypassport.babypassport.contract.BabyPassportContract.Contact;
 import ca.babypassport.babypassport.contract.BabyPassportContract.Log;
 import ca.babypassport.babypassport.dialog.ConfirmationDialogFragment;
 import ca.babypassport.babypassport.dialog.ConfirmationDialogFragment.OnConfirmationDialogListener;
-import ca.hajjar.babypassport.R;
+import ca.babypassport.babypassport.R;
 
 public class EditBabyInfoFragment extends Fragment implements OnTouchListener, OnConfirmationDialogListener {
 

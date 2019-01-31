@@ -13,7 +13,7 @@ import java.util.Locale;
 import ca.babypassport.babypassport.fragments.BabyInfoFragment;
 import ca.babypassport.babypassport.fragments.ContactListFragment;
 import ca.babypassport.babypassport.fragments.LogFragment;
-import ca.hajjar.babypassport.R;
+import ca.babypassport.babypassport.R;
 
 public class BabyActivity extends FragmentActivity {
 

@@ -10,7 +10,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import ca.babypassport.babypassport.contract.BabyPassportContract.Log;
-import ca.hajjar.babypassport.R;
+import ca.babypassport.babypassport.R;
 
 public class LogCursorAdapter extends SimpleCursorAdapter {
 

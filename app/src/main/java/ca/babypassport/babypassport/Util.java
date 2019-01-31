@@ -4,7 +4,7 @@ package ca.babypassport.babypassport;
 import android.content.Context;
 import android.widget.EditText;
 
-import ca.hajjar.babypassport.R;
+import ca.babypassport.babypassport.R;
 
 public class Util {
 

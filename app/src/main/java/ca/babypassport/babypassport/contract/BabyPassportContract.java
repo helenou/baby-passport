@@ -6,7 +6,7 @@ import android.provider.BaseColumns;
 public final class BabyPassportContract {
 
 
-    public static final String AUTHORITY = "ca.babypassport.babypassport.provider.babypassportprovider";
+    public static final String AUTHORITY = "ca.babypassport.babypassport.provider";
 
     public static final Uri BASE_CONTENT_URI = Uri.parse("content://" + AUTHORITY);
 

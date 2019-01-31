@@ -18,7 +18,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import ca.babypassport.babypassport.contract.BabyPassportContract.BabyInfo;
-import ca.hajjar.babypassport.R;
+import ca.babypassport.babypassport.R;
 
 public class BabyInfoFragment extends Fragment implements LoaderManager.LoaderCallbacks<Cursor> {
     public static final String TAG = BabyInfoFragment.class.getName();

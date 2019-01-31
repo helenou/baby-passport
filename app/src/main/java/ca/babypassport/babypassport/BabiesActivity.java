@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 
 import ca.babypassport.babypassport.fragments.BabiesFragment.OnBabySelectedListener;
-import ca.hajjar.babypassport.R;
+import ca.babypassport.babypassport.R;
 
 public class BabiesActivity extends FragmentActivity implements OnBabySelectedListener {
 

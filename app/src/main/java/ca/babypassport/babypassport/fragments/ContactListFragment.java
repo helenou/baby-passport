@@ -18,7 +18,7 @@ import android.view.View;
 import android.widget.ListView;
 
 import ca.babypassport.babypassport.contract.BabyPassportContract.Contact;
-import ca.hajjar.babypassport.R;
+import ca.babypassport.babypassport.R;
 
 public class ContactListFragment extends ListFragment implements LoaderManager.LoaderCallbacks<Cursor> {
 

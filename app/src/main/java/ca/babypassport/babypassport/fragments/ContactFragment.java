@@ -20,7 +20,7 @@ import android.widget.Toast;
 import ca.babypassport.babypassport.contract.BabyPassportContract.Contact;
 import ca.babypassport.babypassport.dialog.ConfirmationDialogFragment;
 import ca.babypassport.babypassport.dialog.ConfirmationDialogFragment.OnConfirmationDialogListener;
-import ca.hajjar.babypassport.R;
+import ca.babypassport.babypassport.R;
 
 public class ContactFragment extends DialogFragment implements OnClickListener, OnConfirmationDialogListener {
 

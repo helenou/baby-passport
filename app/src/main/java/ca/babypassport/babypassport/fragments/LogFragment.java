@@ -25,7 +25,7 @@ import ca.babypassport.babypassport.adapter.LogCursorAdapter;
 import ca.babypassport.babypassport.contract.BabyPassportContract.Log;
 import ca.babypassport.babypassport.dialog.ConfirmationDialogFragment;
 import ca.babypassport.babypassport.dialog.ConfirmationDialogFragment.OnConfirmationDialogListener;
-import ca.hajjar.babypassport.R;
+import ca.babypassport.babypassport.R;
 
 public class LogFragment extends ListFragment implements LoaderManager.LoaderCallbacks<Cursor>, OnItemClickListener, OnConfirmationDialogListener {
 

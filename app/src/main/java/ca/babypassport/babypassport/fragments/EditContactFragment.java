@@ -18,7 +18,7 @@ import android.widget.Toast;
 
 import ca.babypassport.babypassport.Util;
 import ca.babypassport.babypassport.contract.BabyPassportContract.Contact;
-import ca.hajjar.babypassport.R;
+import ca.babypassport.babypassport.R;
 
 public class EditContactFragment extends Fragment {
 

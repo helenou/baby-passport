@@ -19,7 +19,7 @@ import java.util.Date;
 import java.util.TimeZone;
 
 import ca.babypassport.babypassport.contract.BabyPassportContract.Log;
-import ca.hajjar.babypassport.R;
+import ca.babypassport.babypassport.R;
 
 public class AddLogFragment extends DialogFragment implements OnClickListener, OnTouchListener {
     private long babyId;

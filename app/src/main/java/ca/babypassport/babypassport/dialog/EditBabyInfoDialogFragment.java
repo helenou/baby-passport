@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.support.v4.app.DialogFragment;
 import android.view.LayoutInflater;
 
-import ca.hajjar.babypassport.R;
+import ca.babypassport.babypassport.R;
 
 public class EditBabyInfoDialogFragment extends DialogFragment {
 
